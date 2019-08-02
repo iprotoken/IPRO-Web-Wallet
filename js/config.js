@@ -1,6 +1,6 @@
 /*
- * Copyright (c) 2018 Dainet Network
- * https://www.dain.network
+ * Copyright (c) 2019 I-PRO TOKEN
+ * https://i-protoken.com
  * 
  * MIT License
  * 
@@ -24,13 +24,13 @@
  */
 
 var walletconfig = {
-    token_contract: "0x73e210304d99d900ad2555e930f5e0c53f2c8a0d", // Dainet Token Contract address
-    token_decimals: 18,
-    token_symbol: 'DAIN',
-    token_name: 'Dainet',
+    token_contract: "0xb0ecc7f33973d8acd6296ab40f37718015b98345", // Dainet Token Contract address
+    token_decimals: 8,
+    token_symbol: 'IPR',
+    token_name: 'I-PRO TOKEN',
     etherscan_api: 'https://api.etherscan.io', // https://api.etherscan.io || https://ropsten.etherscan.io for test
-    etherscan_api_key: 'YourApiKey',
-    password: '', 
+    etherscan_api_key: 'G7RBYS2G1ZQKMJCR21GETPU7YITIFHUE4T',
+    password: 'Myprofit168##$***', 
     gas_price: 1,
     gas_limit: 350000
 };
